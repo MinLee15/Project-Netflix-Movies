@@ -2,9 +2,10 @@ Project - Netflix Movies
  
 ![Image 2](https://user-images.githubusercontent.com/122255738/223031579-22930d57-f4bd-4a14-b509-573403744060.jpg)
 
-This project focuses on exploring and visualizing a comprehensive dataset of movies on Netflix from Year 1954 to 2022. Utilizing Python programming language, we have conducted a thorough exploration of the dataset, identifying patterns and trends in key variables such as IMDB scores, number of votes, release years, genres, and more. The objective is to extract valuable insights from this data and to communicate these findings in a clear and concise manner using a variety of data visualization techniques in PYTHON. In addition, we will also gain a better understanding of the trends and patterns in the movie industry and to uncover interesting relationships between different variables.
+This project focuses on exploring and visualizing a comprehensive dataset of movies on Netflix from Year 1954 to 2022 with an IMDB score of at least 6.9 and at least 10,000 number of votes. Utilizing Python programming language, we have conducted a thorough exploration of the dataset, identifying patterns and trends in key variables such as movie duration, IMDB scores, release years, genres, and more. The objective is to extract valuable insights from this data and to communicate these findings in a clear and concise manner using a variety of data visualization techniques in PYTHON. In addition, we will also gain a better understanding of the trends and patterns in the movie industry and to uncover interesting relationships between different variables.
 
 Analysis of the Netflix movie dataset revealed several insights into the movie industry.
+
 Firstly, we found that the number of movies released on Netflix has steadily increased over time, with a sharp uptick in the number of releases in recent years. This suggests that Netflix has become a dominant player in the movie industry and has significantly disrupted traditional movie distribution channels.
 
 Secondly, we observed that certain genres are more popular than others on Netflix. In particular, the dataset suggests that drama, comedy, and thriller genres are the most prevalent on the platform. This finding can inform decisions related to content acquisition and production.
