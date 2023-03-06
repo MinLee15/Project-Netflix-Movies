@@ -4,13 +4,17 @@ Project - Netflix Movies
 
 This project focuses on exploring and visualizing a comprehensive dataset of movies on Netflix from Year 1954 to 2022 that achieved an IMDB score of at least 6.9 and a minimum of 10,000 votes. Utilizing Python programming language, we have conducted a thorough exploration of the dataset, identifying patterns and trends in key variables such as movie duration, IMDB scores, release years, genres, and more. The objective is to extract valuable insights from this data and to communicate these findings in a clear and concise manner using a variety of data visualization techniques in PYTHON. In addition, we will also gain a better understanding of the trends and patterns in the movie industry and to uncover interesting relationships between different variables.
 
-Analysis of the Netflix movie dataset revealed several insights into the movie industry.
+Overall, analysis of the Netflix movie dataset revealed several insights into the movie industry.
 
-Firstly, we found that the number of movies released on Netflix has steadily increased over time, with a sharp uptick in the number of releases in recent years. This suggests that Netflix has become a dominant player in the movie industry and has significantly disrupted traditional movie distribution channels.
+Firstly, the quantity of movies released on Netflix has been relatively consistent over time but observed a marked acceleration from the year 2000 onward. our findings also evinced a discernible decrement in the volume of releases in the year 2022. However, we also observed a drop in the number of releases in the year 2022.
 
-Secondly, we observed that certain genres are more popular than others on Netflix. In particular, the dataset suggests that drama, comedy, and thriller genres are the most prevalent on the platform. This finding can inform decisions related to content acquisition and production.
+Secondly, we observed that certain genres are more popular than others on Netflix. In particular, War, Sci-Fi, and Documentary genres outperformed all others in terms of the average IMDB ratings, while the average ratings for genres such as Musical, Animation, and Horror were found to be significantly lower. By prioritizing genres that have demonstrated higher average ratings, content providers can make more informed decisions that are more likely to yield successful outcomes.
 
-Thirdly, we found that there is a strong positive correlation between the IMDB scores and the number of votes for movies on Netflix. This implies that high-quality movies are more likely to attract a larger audience, which can help to inform content acquisition strategies.
+Thirdly, we observed that certain genres tend to have longer durations on average than others. Specifically, we observed that Romance, Drama, and Western genres had the highest average movie durations on Netflix, while Documentary, Musical, and Animation genres had significantly lower durations on average. These discovery can help content providers to optimize the length of their productions to create offerings that align more closely with the preferences and expectations of their audience.
+
+Fourth, analysis reveals that movies released in the 1970s had the highest average score, while movies released after 2000 consistently had an average score above 7.2.  Movies released between 1980 and 1990 had a better average score than movies released between 1990 and 2000. Interestingly, movies released in the years 1980 and 1991 had the lowest average scores. Early in the 1960s, movies had a longer duration, which gradually reduced by the year 1980, coinciding with the decade with the lowest average score. Moreover, most of the movies made after 1996 had a duration of more than 120 minutes. These findings provide useful insights into the impact of movie duration on ratings and the evolution of movie trends over time.
+  
+Lastly, we  observed that the IMDB score and number of votes obtained for a movie are directly proportional to each other. This implies that high-quality movies are more likely to attract a larger audience. 
 
 Finally, we observed that certain directors and actors have a higher average IMDB score than others. This finding can be useful in identifying potential candidates for content acquisition and production.
 
