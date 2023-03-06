@@ -6,7 +6,7 @@ This project focuses on exploring and visualizing a comprehensive dataset of mov
 
 Overall, analysis of the Netflix movie dataset revealed several insights into the movie industry.
 
-Firstly, the quantity of movies released on Netflix has been relatively consistent over time but observed a marked acceleration from the year 2000 onward. our findings also evinced a discernible decrement in the volume of releases in the year 2022. However, we also observed a drop in the number of releases in the year 2022.
+Firstly, the quantity of movies released on Netflix has been relatively consistent over time but observed a marked acceleration from the year 2000 onwards. However, we also observed a drop in the number of releases in the year 2022.
 
 Secondly, we observed that certain genres are more popular than others on Netflix. In particular, War, Sci-Fi, and Documentary genres outperformed all others in terms of the average IMDB ratings, while the average ratings for genres such as Musical, Animation, and Horror were found to be significantly lower. By prioritizing genres that have demonstrated higher average ratings, content providers can make more informed decisions that are more likely to yield successful outcomes.
 
